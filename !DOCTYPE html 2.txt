@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | LUNA Fashion Boutique</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h2 class="logo">LUNA<span>.</span></h2>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="index.html#collection">Collection</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section class="about-page-hero">
+        <p class="tagline">OUR STORY</p>
+        <h1>Fashion with a<br><span>Personal Touch.</span></h1>
+        <p>Discover the story behind LUNA Fashion Boutique.</p>
+    </section>
+
+    <section class="about-story">
+        <div class="story-image">
+            <img
+                src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=85"
+                alt="Friends exploring fashionable outfits">
+        </div>
+
+        <div class="story-text">
+            <p class="tagline">WELCOME TO LUNA</p>
+            <h2>Style is more than just clothing.</h2>
+
+            <p>
+                LUNA Fashion Boutique was created with a simple idea:
+                fashion should help everyone express their personality
+                and feel confident in their own style.
+            </p>
+
+            <p>
+                Our collection brings together elegant dresses,
+                everyday essentials, stylish accessories and timeless
+                pieces that can be worn on different occasions.
+            </p>
+
+            <p>
+                We believe that great style does not need to be
+                complicated. It begins with choosing pieces that make
+                you feel comfortable, confident and uniquely yourself.
+            </p>
+
+            <a href="index.html#collection" class="button">
+                EXPLORE OUR COLLECTION ↗
+            </a>
+        </div>
+    </section>
+
+    <section class="values">
+        <p class="tagline">WHAT WE BELIEVE IN</p>
+        <h2>Our Boutique Values</h2>
+
+        <div class="values-container">
+
+            <div class="value-card">
+                <h3>01. Individuality</h3>
+                <p>
+                    Your style is your story. We celebrate the freedom
+                    to express yourself through fashion.
+                </p>
+            </div>
+
+            <div class="value-card">
+                <h3>02. Confidence</h3>
+                <p>
+                    We believe the right outfit can help you feel
+                    comfortable and confident throughout your day.
+                </p>
+            </div>
+
+            <div class="value-card">
+                <h3>03. Timeless Style</h3>
+                <p>
+                    We love versatile pieces that you can style in
+                    different ways and enjoy beyond one season.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="about-cta">
+        <h2>Find your own kind of style.</h2>
+        <p>Explore our collection and discover your next favourite look.</p>
+        <a href="index.html#collection" class="button">
+            SHOP THE COLLECTION ↗
+        </a>
+    </section>
+
+    <footer>
+        <h2 class="logo">LUNA<span>.</span></h2>
+        <p>Style is a way to express who you are.</p>
+        <p>© 2026 LUNA Fashion Boutique | Student Project</p>
+        <p>
+            <a href="https://www.instagram.com/">Instagram</a> |
+            <a href="https://www.pinterest.com/">Pinterest</a>
+        </p>
+    </footer>
+
+</body>
+</html>

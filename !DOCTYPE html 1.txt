@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LUNA | Fashion Boutique</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h2 class="logo">LUNA<span>.</span></h2>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="#collection">Collection</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <p class="tagline">THE NEW SEASON COLLECTION</p>
+
+            <h1>Wear Your<br><span>Own Story.</span></h1>
+
+            <p>
+                Discover timeless fashion, elegant styles
+                and beautiful pieces made for you.
+            </p>
+
+            <a href="#collection" class="button">EXPLORE COLLECTION ↗</a>
+        </div>
+
+        <div class="hero-image">
+            <img
+                src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=900&q=85"
+                alt="Fashion model wearing an elegant outfit">
+        </div>
+    </section>
+
+    <section class="about">
+        <p class="tagline">WELCOME TO LUNA</p>
+        <h2>Fashion That Feels Like <span>You.</span></h2>
+
+        <p>
+            LUNA is a fashion boutique created for people who love
+            expressing themselves through clothing. From everyday
+            essentials to elegant outfits, find your next favourite look.
+        </p>
+    </section>
+
+    <section class="collection" id="collection">
+        <p class="tagline">HANDPICKED FOR YOU</p>
+        <h2>Our Collection</h2>
+
+        <div class="products">
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=600&q=80" alt="Elegant dress">
+                <h3>Elegant Dress</h3>
+                <p>₹1,499</p>
+                <a href="contact.html" class="shop-button">Enquire Now</a>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=600&q=80" alt="Stylish jacket">
+                <h3>Classic Jacket</h3>
+                <p>₹2,199</p>
+                <a href="contact.html" class="shop-button">Enquire Now</a>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&w=600&q=80" alt="Fashion accessories">
+                <h3>Style Essentials</h3>
+                <p>₹999</p>
+                <a href="contact.html" class="shop-button">Enquire Now</a>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&q=80" alt="Denim fashion">
+                <h3>Everyday Denim</h3>
+                <p>₹1,299</p>
+                <a href="contact.html" class="shop-button">Enquire Now</a>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&q=80" alt="Women's handbag">
+                <h3>Classic Handbag</h3>
+                <p>₹1,799</p>
+                <a href="contact.html" class="shop-button">Enquire Now</a>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1591369822096-ffd140ec948f?auto=format&fit=crop&w=600&q=80" alt="Women's fashion outfit">
+                <h3>Chic Outfit</h3>
+                <p>₹1,599</p>
+                <a href="contact.html" class="shop-button">Enquire Now</a>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="contact">
+        <p class="tagline">LET'S CONNECT</p>
+        <h2>Find Something <span>Beautiful.</span></h2>
+        <p>Have a question about our collection?</p>
+        <a href="contact.html" class="button">CONTACT US ↗</a>
+    </section>
+
+    <footer>
+        <h2 class="logo">LUNA<span>.</span></h2>
+        <p>Style is a way to express who you are.</p>
+        <p>© 2026 LUNA Fashion Boutique | Student Project</p>
+        <p>
+            <a href="https://www.instagram.com/">Instagram</a> |
+            <a href="https://www.pinterest.com/">Pinterest</a>
+        </p>
+    </footer>
+
+</body>
+</html>
